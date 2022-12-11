@@ -1,31 +1,33 @@
 # flappy_bird
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This is a flappy bird game built in Unity with C#. There is one bird, some pipes, sky with clouds, and ground. The bird is supposed to go between the pipes without touching them or falling to the ground, in which case the game ends. 
 
-{Provide a description the game that you wrote. Describe how to play your game.}
+The purpose of building this game is to get familiar with a new environment - Unity, and to learn to connect code with elements created within the game. As well as to practice the principles of C#
 
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video Part 1](https://youtu.be/J03XXBS6gg0)
+[Software Demo Video Part 2](https://youtu.be/_nXnns3JOe8)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+Unity Hub 3.3.0
+Unity 2021.311f1
+Git
+GitHub
+C#
+Visual Studio
+Visual Studio Code
+Unity.Engine Library when in C# scripts
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Unity.com](https://unity.com/download)
+* [YouTube. Installing Unity](https://www.youtube.com/watch?v=ewiw2tcfen8&t=602s)
+* [YouTube. Unity Movement](https://www.youtube.com/watch?v=w9NmPShzPpE)
+* [Unity Asset Store](https://assetstore.unity.com/)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* A score could be added as the bird successfully passes between the pipes
+* Level could be added based on the score
+* Elements could speed up and more pipes could be added depending on the level
