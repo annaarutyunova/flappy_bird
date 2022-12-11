@@ -3,7 +3,7 @@
 
 This is a flappy bird game built in Unity with C#. There is one bird, some pipes, sky with clouds, and ground. The bird is supposed to go between the pipes without touching them or falling to the ground, in which case the game ends. 
 
-The purpose of building this game is to get familiar with a new environment - Unity, and to learn to connect code with elements created within the game. As well as to practice the principles of C#
+The purpose of building this game is to get familiar with a new environment - Unity, and to learn to connect code with elements created within the game. As well as to practice the principles of object-oriented programming with C# syntax
 
 [Software Demo Video Part 1](https://youtu.be/J03XXBS6gg0)
 
